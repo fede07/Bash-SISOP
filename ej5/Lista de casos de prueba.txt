@@ -1,0 +1,24 @@
+Archivo Materias:
+Ejecutar para archivo departamento "departamentos_correcto.txt"
+1	Id materia invalida 		
+2	Numeros de deptos desordenados 		
+3	Letra en vez de numero de departamento 	
+4	No hay descripcion						
+5	ID materias repetidos 					
+6	Vacio 								
+7	Se envia archivo equivocado			
+8	Se envia directorio en vez de archivo
+9	Hay materias sin alumnos				
+
+Archivo Alumnos: 
+Ejecutar para archivo alumnos "alumnos_correcto.txt"
+1	Datos invalidos							
+2	Vacio									
+3	Se envia archivo equivocado				
+4	Se envia directorio en vez de archivo	
+5 	Todos distintos departamento			
+6	Todos mismo departamento				
+7	Todos distintas Materias				
+8 	Todos mismas materias					
+9	ID materia no existe en archivo deptos	
+10	ID materias desordenados				

@@ -1,0 +1,38 @@
+{         
+    "departamentos": [        
+        {
+            "id": 1,
+            "notas": [
+                {
+                    "id_materia": 1,
+                    "descripcion": "Programacion",
+                    "final": "1",
+                    "recursan": "0",
+                    "abandonaron": "1",
+                    "promocionaron": "0"                
+                },
+                {
+                    "id_materia": 7,
+                    "descripcion": "Natacion",
+                    "final": "0",
+                    "recursan": "1",
+                    "abandonaron": "0",
+                    "promocionaron": "1"                
+                }            
+            ]
+        },        
+        {
+            "id": 2,
+            "notas": [
+                {
+                    "id_materia": 9,
+                    "descripcion": "Matematica",
+                    "final": "0",
+                    "recursan": "0",
+                    "abandonaron": "0",
+                    "promocionaron": "1"
+                }       
+            ]
+        }
+    ]
+}

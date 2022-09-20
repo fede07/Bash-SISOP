@@ -1,0 +1,9 @@
+1	Registros correctos, todos inicio y fin
+2	Registros validos e invalidos
+3	Todos registros correctos en distintos dias, distintos usuarios
+4	Todos registros correctos en distintos dias, unico usuario
+5	Archivo vacio
+6	Registros desordenados
+7	Registros con inicio pero sin fin distinto dia
+8	Registros con inicio pero sin fin mismo dia
+9	Unico usuario, multiples llamadas

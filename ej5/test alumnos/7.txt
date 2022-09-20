@@ -1,0 +1,24 @@
+Archivo Materias:
+
+1	Id materia invalida 					OK
+2	Numeros de deptos desordenados 			OK
+3	Letra en vez de numero de departamento 	OK
+4	No hay descripcion						OK
+5	ID materias repetidos 					OK
+6	Vacio 									OK
+7	Se envia archivo equivocado				OK
+8	Se envia directorio en vez de archivo	OK
+9	Hay materias sin alumnos				OK
+
+Archivo Alumnos:
+
+1	Datos invalidos							OK
+2	Vacio									OK
+3	Se envia archivo equivocado				OK
+4	Se envia directorio en vez de archivo	OK
+5 	Todos distintos departamento			OK
+6	Todos mismo departamento				OK
+7	Todos distintas Materias				OK
+8 	Todos mismas materias					?
+9	ID materia no existe en archivo deptos	?
+10	ID materias desordenados				?

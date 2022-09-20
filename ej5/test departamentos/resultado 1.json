@@ -1,0 +1,38 @@
+{         
+    "departamentos": [        
+        {
+            "id": 1,
+            "notas": [
+                {
+                    "id_materia": 3,
+                    "descripcion": "Fisica",
+                    "final": "0",
+                    "recursan": "1",
+                    "abandonaron": "0",
+                    "promocionaron": "2"                
+                },
+                {
+                    "id_materia": 7,
+                    "descripcion": "Natacion",
+                    "final": "0",
+                    "recursan": "1",
+                    "abandonaron": "0",
+                    "promocionaron": "1"                
+                }            
+            ]
+        },        
+        {
+            "id": 2,
+            "notas": [
+                {
+                    "id_materia": 9,
+                    "descripcion": "Matematica",
+                    "final": "0",
+                    "recursan": "0",
+                    "abandonaron": "0",
+                    "promocionaron": "1"
+                }       
+            ]
+        }
+    ]
+}

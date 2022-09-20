@@ -1,0 +1,8 @@
+1 	Codigo correcto, 10 comentarios, 7 codigo
+2	Codigo no compila comentarios correctos, 15 comentarios, 4 codigo
+3	Codigo no compila comentarios incorrectos, 17 comentarios, 5 codigo <- error conocido, notificado en --help
+4	Codigo correcto, 0 comentarios, 7 codigo
+5	Codigo "correcto", 18 comentarios, 0 codigo
+6	Codigo correcto, 1 comentario, 1 codigo <- error conocido, notificado en --help
+7	Codigo correcto, 0 comentarios, 1 codigo <- error conocido, notificado en --help
+8	Archivo vacio
